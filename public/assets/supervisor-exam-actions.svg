@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430">
+  <rect width="980" height="430" fill="#11181c"/>
+  <text x="30" y="58" fill="#ffffff" font-family="Arial" font-size="34" font-weight="700">إجراءات اللاعب</text>
+  <text x="30" y="112" fill="#ffffff" font-family="Arial" font-size="28" font-weight="700">اختبار الرقابة التفاعلي</text>
+  <g font-family="Arial" font-size="22" font-weight="700">
+    <rect x="30" y="145" width="130" height="58" rx="6" fill="none" stroke="#00c9a7" stroke-width="2"/>
+    <text x="95" y="182" text-anchor="middle" fill="#00e0b8">خاص</text>
+    <rect x="180" y="145" width="130" height="58" rx="6" fill="none" stroke="#00c9a7" stroke-width="2"/>
+    <text x="245" y="182" text-anchor="middle" fill="#00e0b8">حذر</text>
+    <rect x="330" y="145" width="130" height="58" rx="6" fill="none" stroke="#00c9a7" stroke-width="2"/>
+    <text x="395" y="182" text-anchor="middle" fill="#00e0b8">شفاء</text>
+    <rect x="30" y="245" width="180" height="58" rx="6" fill="none" stroke="#00c9a7" stroke-width="2"/>
+    <text x="120" y="282" text-anchor="middle" fill="#00e0b8">احضر اللاعب</text>
+    <rect x="230" y="245" width="190" height="58" rx="6" fill="none" stroke="#00c9a7" stroke-width="2"/>
+    <text x="325" y="282" text-anchor="middle" fill="#00e0b8">انتقل للاعب</text>
+    <rect x="440" y="245" width="190" height="58" rx="6" fill="none" stroke="#00c9a7" stroke-width="2"/>
+    <text x="535" y="282" text-anchor="middle" fill="#00e0b8">مراقبة اللاعب</text>
+  </g>
+</svg>
