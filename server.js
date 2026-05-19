@@ -103,7 +103,6 @@ const PERMISSION_ROLE_MAP = [
   { env: 'OWNER_ROLE_ID', label: 'Owner', group: 'OWNER' },
   { env: 'DEVELOPER_ROLE_ID', label: 'مبرمج الموقع', group: 'DEVELOPER' },
   { env: 'ADMIN_ROLE_ID', label: 'Admin', group: 'ADMIN' },
-  { env: 'SUPERVISOR_ROLE_ID', label: 'رقابة', group: 'SUPERVISOR' },
   { env: 'SUPPORT_ROLE_ID', label: 'Support', group: 'SUPPORT' },
   { env: 'PROMOTION_MANAGER_ROLE_ID', label: 'مسؤول الترقيات', group: 'PROMOTIONS' }
 ];
